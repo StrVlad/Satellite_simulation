@@ -5,3 +5,4 @@ pip install matplotlib
 pip install numpy
 pip install scypy
 Then input data and enjoy
+if you want to see eleptical orbit you should just increase speed
