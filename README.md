@@ -3,7 +3,7 @@ My program simulates movement of satellite. For better visability I have created
 If you want to start using it you should just install libraries:  
 pip install matplotlib  
 pip install numpy  
-pip install scypy  
+pip install scipy  
 Then input data and enjoy  
 <img width="1122" alt="1" src="https://user-images.githubusercontent.com/79036529/207688178-73f58abf-01ab-4352-8870-0c974b22a67e.png">
 <img width="1106" alt="2" src="https://user-images.githubusercontent.com/79036529/207688226-7fc88ddc-5e3e-4d94-8496-88f48d2930c8.png">
